@@ -15,7 +15,7 @@ socialImage: "/media/notebook.jpg"
 
 Không biết học frontend có khó không nhỉ, mình cũng chẳng rỏ. Nên thôi cứ nhảy vào học thôi nhỉ.
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/notebook.jpg)
+![Just doing, not thinking too much](/media/notebook.jpg)
 
 ## React
 * Bài 1 - TBC
