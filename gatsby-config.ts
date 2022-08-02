@@ -17,6 +17,13 @@ export default {
   },
   plugins: [
     {
+      resolve: "gatsby-plugin-vercel",
+      options: {
+        // (optional) Prints metrics in the console when true
+        debug: true,
+      },
+    },
+    {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "content",
@@ -176,8 +183,7 @@ export default {
               handler: "StaleWhileRevalidate",
             },
             {
-              urlPattern:
-                /^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/,
+              urlPattern: /^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/,
               handler: "StaleWhileRevalidate",
             },
             {
