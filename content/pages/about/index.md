@@ -1,7 +1,7 @@
 ---
 title: "Hieu Tran"
 template: "page"
-socialImage: "/notebook.jpg"
+socialImage: "./notebook.jpg"
 ---
 # Senior Backend & DevOps Developer
 

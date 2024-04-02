@@ -34,13 +34,15 @@
       "twitter": "#",
       "linkedin": "#",
       "instagram": "#",
+      "mastodon": "#",
       "line": "",
       "weibo": "",
       "gitlab": "",
       "medium": "",
       "youtube": "",
       "codepen": "",
-      "soundcloud": ""
+      "soundcloud": "",
+      "bluesky": ""
     }
   }
 }
