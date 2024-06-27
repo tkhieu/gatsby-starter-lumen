@@ -1,13 +1,17 @@
 ---
-title: "About me"
+title: "Hieu Tran"
 template: "page"
 socialImage: "./notebook.jpg"
 ---
+# Senior Backend & DevOps Developer
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Highly analytical and technical professional with hands-on experience solving technical issues, consulting, building solutions, and driving technological innovation with up-to-date technology.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/notebook.jpg)
-
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+* Migrate legacy system from .NET Framework to .NET Core microservice ready system run on Kubernetes
+* Transform the whole legacy system of Antoree.com from a single EC2 instance to ECS Fargate with high availability, auto-scaling with Aurora RDS, and change the legacy CI system from SCP command to auto rollout with Blue/Green deployment with zero downtime.
+* Success implemented and deployed the first mobile app for Chợ Tốt (Good Market). With 5M users and a massive amount of daily active users, process a few thousands transaction per day.
+* Developing POS Application for Tend.com (US Agriculture Startup Product) (PlayStore Link)
+* Success implemented technical standards, developing strategies for technology platforms, overseeing research, supervising software testing, adopting technological changes, developing new products, and managing executive teams. The biggest goal is to help the tech team collaborate and deliver results that match business expectations.
+* Proven record of coordinating with teams of software engineers and ensuring development projects are completed under time; assess customer needs, outline projects, assign tasks, and support engineers.
+* Skilled team leader and trainer with experience developing procedures, supervising daily operations, identifying training needs, generating reports, providing support to team members, and evaluating performance.
+* Outstanding interpersonal and communication strengths leveraged to train users, troubleshoot system issues, and ensure total client satisfaction.

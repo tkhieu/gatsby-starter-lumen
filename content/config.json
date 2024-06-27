@@ -1,20 +1,20 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
-  "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  "title": "Hieu's Corner",
+  "url": "https://hieutk.com",
+  "subtitle": "See, Though, Write",
   "copyright": "© All rights reserved.",
-  "googleAnalyticsId": "UA-73379983-2",
-  "disqusShortname": "",
+  "googleAnalyticsId": "G-9YJNP2WWM0",
+  "disqusShortname": "trankimhieu",
   "postsLimit": 4,
   "pathPrefix": "/",
   "menu": [
     {
-      "label": "Articles",
-      "path": "/"
-    },
-    {
       "label": "About me",
       "path": "/pages/about"
+    },
+    {
+      "label": "Articles",
+      "path": "/"
     },
     {
       "label": "Contact me",
@@ -22,18 +22,18 @@
     }
   ],
   "author": {
-    "name": "John Doe",
-    "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "name": "Hieu Tran",
+    "photo": "/photo01.jpg",
+    "bio": "Your life does not get better by chance. It gets better by a change",
     "contacts": {
       "rss": "",
-      "email": "",
-      "github": "alxshelepenok/gatsby-starter-lumen",
-      "facebook": "#",
-      "telegram": "#",
-      "twitter": "#",
-      "linkedin": "#",
-      "instagram": "#",
+      "email": "hieu@hieutk.com",
+      "github": "tkhieu",
+      "facebook": "hieu.trankim",
+      "telegram": "hieutk",
+      "twitter": "hieutk_",
+      "linkedin": "trankimhieu",
+      "instagram": "chaubui_",
       "mastodon": "#",
       "line": "",
       "weibo": "",

@@ -17,6 +17,20 @@ export default {
   },
   plugins: [
     {
+      resolve: "@vercel/gatsby-plugin-vercel-analytics",
+      options: {
+        // (optional) Prints metrics in the console when true
+        debug: false,
+      },
+    },
+    {
+      resolve: "gatsby-plugin-vercel",
+      options: {
+        // (optional) Prints metrics in the console when true
+        debug: true,
+      },
+    },
+    {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "content",
@@ -157,7 +171,12 @@ export default {
         short_name: config.title,
         theme_color: "hsl(31, 92%, 62%)",
         background_color: "hsl(0, 0%, 100%)",
-        icon: "content/photo.jpg",
+        icon: "content/photo01.jpg",
+        icon_options: {
+          // For all the options available,
+          // please see the section "Additional Resources" below.
+          purpose: `any maskable`,
+        },
         display: "standalone",
         start_url: "/",
       },
@@ -176,8 +195,7 @@ export default {
               handler: "StaleWhileRevalidate",
             },
             {
-              urlPattern:
-                /^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/,
+              urlPattern: /^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/,
               handler: "StaleWhileRevalidate",
             },
             {
